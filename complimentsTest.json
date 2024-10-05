@@ -1,5 +1,13 @@
 {
-  "anytime": ["Te ves genial"],
+  "anytime": [
+    "Te ves genial",
+    "Eres lo maximo",
+    "Te ves hermosa hoy",
+    "Lo estas haciendo genial",
+    "Te ves espectacular hoy",
+    "Eres la mejor!",
+    "Hoy es tu dia"
+  ],
   "morning": [
     "Buen día, sonríe!",
     "Quien necesita un cafe con esa sonrisa?",
@@ -11,7 +19,11 @@
   ],
   "evening": [
     "Hiciste a alguien feliz hoy, Tienes que saberlo!",
-    "Estas hacinedo la diferencia",
-    "Tus esfuerzos se notaran más mañana."
+    "Estas haciendo la diferencia",
+    "Tus esfuerzos se notaran más mañana.", 
+    "Buenas noches preciosa",
+    "Ninguna estrella brilla como tú!",
+    "Esta noche tu eres la estrella!",
+    "No existe noche que no puedas alumnbrar"
   ]
 }
