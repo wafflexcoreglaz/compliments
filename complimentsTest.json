@@ -1,0 +1,17 @@
+{
+  "anytime": ["Te ves genial"],
+  "morning": [
+    "Buen día, sonríe!",
+    "Quien necesita un cafe con esa sonrisa?",
+    "Es tu día, preciosa!"
+  ],
+  "afternoon": [
+    "Saludos hermosa!",
+    "Tu haces la diferencia!"
+  ],
+  "evening": [
+    "Hiciste a alguien feliz hoy, Tienes que saberlo!",
+    "Estas hacinedo la diferencia",
+    "Tus esfuerzos se notaran más mañana."
+  ]
+}
